@@ -1,0 +1,24 @@
+# Vivado 缓存、临时文件
+*.jou
+*.log
+*.str
+*.debug
+*.dcp
+*.bit
+*.bin
+*.hwdef
+.cache/
+.runs/
+xsim.dir/
+.hbs/
+.Xil/
+vivado*.jou
+vivado*.log
+
+# 工程杂项
+*.backup
+*.tmp
+*.zip
+
+# 编辑器
+.vscode/
